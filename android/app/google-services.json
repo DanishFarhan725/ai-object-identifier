@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412963337076",
+    "project_id": "obj-detect-d1b09",
+    "storage_bucket": "obj-detect-d1b09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412963337076:android:c2f0216ad424c85d883221",
+        "android_client_info": {
+          "package_name": "com.example.object_detect_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4wAZIr_dQcLc3RA8iKupi493198TcwOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
